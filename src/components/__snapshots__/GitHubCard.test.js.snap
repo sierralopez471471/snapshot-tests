@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="container"
+  style={
+    Object {
+      "backgroundColor": "brown",
+      "height": "100vh",
+    }
+  }
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "backgroundColor": "lightpink",
+        "borderBottom": "solid 3px",
+        "borderTop": "solid 3px",
+        "position": "relative",
+        "top": "200px",
+      }
+    }
+  >
+    <div
+      className="card-title h5"
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <b>
+        sierralopez471471
+      </b>
+    </div>
+    <img
+      alt="lizard wizard"
+      className="card-img"
+      src="https://avatars.githubusercontent.com/u/104409009?v=4"
+      style={
+        Object {
+          "border": "solid 4px",
+          "borderRadius": "15px 15px",
+        }
+      }
+    />
+    <p
+      className="card-text"
+      style={
+        Object {
+          "justifyContent": "space-between",
+          "textAlign": "center",
+        }
+      }
+    >
+      I'm an aspiring Full Stack Software Developer. I love horror films, psych/prog rock, and coding!
+    </p>
+  </div>
+</div>
+`;
